@@ -1,9 +1,9 @@
 # 1 Background and Objective
-* In this project the objective is to find an appropriate method to cluster customers based on ecommerce data.
-
-* Clustering plays a crucial step in marketing by differentiating customers based on psychological, demographic or/and behavioural factors. The objective of clustering is to tailor marketing activities, such as advertising or social media activities to the specific characteristics of each segment. The overall goal is to allocate ressources, particularly finacial ressources optimally.
-
-* The dataset stems from kaggle: https://www.kaggle.com/datasets/salahuddinahmedshuvo/ecommerce-consumer-behavior-analysis-data
+In this project the objective is to find an appropriate method to cluster customers based on ecommerce data.
+<br>
+Clustering plays a crucial step in marketing by differentiating customers based on psychological, demographic or/and behavioural factors. The objective of clustering is to tailor marketing activities, such as advertising or social media activities to the specific characteristics of each segment. The overall goal is to allocate ressources, particularly finacial ressources optimally.
+<br>
+The dataset stems from kaggle: https://www.kaggle.com/datasets/salahuddinahmedshuvo/ecommerce-consumer-behavior-analysis-data
 
 
 # 2 Data Structure

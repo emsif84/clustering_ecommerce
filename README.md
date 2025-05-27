@@ -20,7 +20,7 @@ The process of finding an optimal solution started with the question of wether n
 
 ![Silhoutte_Plot](/assets/img/Silhoutte_Score_per_Sample.png)
 
-Exploring the the data with regard its distribution indicated, that they are no distinct clusters in the data. This assumption was confirmed after performing Hierarchical Clustering and DBSCAN. In both algorithm, the Silhouette Score only showed a score of 0.0187 and -0.1612, respectively (see Plot). To reduce the effect in higher dimensions ('curse of dimensionality') a Principal Component Analysis (PCA) was performed using 2 principal components. But even there, the plot didn´t show any distinct clusters.  
+Exploring the the data with regard to its distribution indicated, that no natural and distinct clusters in the data can be found. Furthermore, the non significant distribution of the data made it also difficult to select appropriate features for the algorithm. The assumption, that no distinct clusters can be found was confirmed after performing Hierarchical Clustering and DBSCAN. In both algorithm, the Silhouette Score only showed a score of 0.0187 and -0.1612, respectively (see Plot). To reduce the effect in higher dimensions ('curse of dimensionality') a Principal Component Analysis (PCA) was performed using 2 principal components. But even there, the plot didn´t show any distinct clusters. This result raised the question
 
 
 ## 3.2 RFM Segmentation with KMeans

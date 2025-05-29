@@ -20,10 +20,12 @@ The process of finding an optimal solution started with the question of wether n
 
 ![Silhoutte_Plot](/assets/img/Silhoutte_Score_per_Sample.png)
 
-Exploring the data with regard to its distribution indicated, that no natural and distinct clusters in the data could be found. Furthermore, the non significant distribution of the data made it also difficult to select appropriate features for the algorithms. At least, the correlation analysis showed that there was no intercorrelation between the features. The assumption, that no distinct clusters can be found was confirmed after performing Hierarchical Clustering and DBSCAN. In both algorithms, the Silhouette Score only showed a score of 0.0187 and -0.1612, respectively (see Plot). To reduce the effect in higher dimensions ('curse of dimensionality') a Principal Component Analysis (PCA) was performed using 2 principal components. But even there, the plot didn´t show any distinct clusters. The unsatisfying result raised the question which method can be used to cluster the data.
+Exploring the data with regard to its distribution indicated, that no natural and distinct clusters in the data could be found. Furthermore, the non significant distribution of the data made it also difficult to select appropriate features for the algorithms. At least, the correlation analysis showed that there was no intercorrelation between the features. The assumption, that no distinct clusters can be found was confirmed after performing Hierarchical Clustering and DBSCAN. In both algorithms, the Silhouette Score only showed a score of 0.0187 and -0.1612, respectively (see Plot). To reduce the effect in higher dimensions ('curse of dimensionality') a Principal Component Analysis (PCA) was performed using 2 principal components. But even there, the plot didn´t show any distinct clusters. The unsatisfying result raised the question which method can be used to cluster the data. The decision felt on the RFM-Segmentation, which will be summarized in the next part.
 
 
 ## 3.2 RFM Segmentation with KMeans
+
+The RFM Segmentation is a popular and widely used segmentation method in marketing that relies only on three variables: (R) Last Activity (Recency); (F) Frequency Amount (Frequency); (M) Purchase Amount (Monetary). It provides a pragmatic approach to categorizing customers based on these variables. The dataset is divided in equally sized groups and the number of groups must be select in advance.     
 
 
 # 4 Recommendation

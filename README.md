@@ -30,6 +30,9 @@ The RFM Segmentation is a popular and widely used segmentation method in marketi
 
 ### 3.2 Segmentation with KMeans
 
+
+![KMeans Distribution](/assets/img/KMeans_Distribution.png)
+
 ### 3.3 Softmax Regression
 
 # 4 Recommendation

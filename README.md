@@ -31,10 +31,22 @@ The RFM Segmentation is a popular and widely used segmentation method in marketi
 * F (Frequency): How often a customer makes a purchase.
 * M (Monetary): The total amount a customer has spent. 
 
-This method provides a pragmatic approach to categorizing customers based on these variables. Each of the variables will then divided in equally sized groups. The number of groups must be select in advance. Afterwards, each customer will get a rfm score, which is just a merge of the three variables. Let´s say a customer have the following values: R=3; F=4;M=1. Then the rfm score is 341. Based on this each customer falls in different segments.
+Each of the variables will then divided in equally sized groups. The number of groups must be select in advance. Afterwards, each customer will get a RFM Score, which is just a merge of the three variables. Let´s say there are 5 groups and a customer have the following values: R=3; F=5;M=1. Then the rfm score is 351. Based on this score each customer falls in the end in different segments.
+
+This method provides a pragmatic approach to categorizing customers based on these variables. However, this process of segmentation appears somewhat abritrary because there is a risk of creating artificial segments where no natural distinction actually exists. To minimize this risk the RFM method was extended by the KMeans algorithm that try to find distinct segments in the data.
+
+### 3.2.1 Segmentation with KMeans
+
+In this project R is reflected by the variable 'Last_Activity (days)' which is a transformation of the original variable Time_of_Purchase. F is reflected by the variable 'Frequency_of_Purchase' and M is reflected by 'Purchase_Amount'. In context of machine learning using the rfm variables for KMeans can also be seen as a feature selection method.
+
+![Elbow and Silhoutte Plot](assets/img/Elbow_Silhoutte_Plot.png)
+
+With KMeans clustering it is necessary to define the optimal number of clusters in advance. One common technique for determining the optimal number is the elbow method which provides a visual approach. By increasing the number of clusters the optimal number is identified where the curve starts to level off, indicating the model will no longer improve significantly with additional clusters.
 
 
 ![KMeans Distribution](/assets/img/KMeans_Distribution.png)
+
+
 
 ### 3.3 Softmax Regression
 

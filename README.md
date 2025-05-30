@@ -41,7 +41,9 @@ In this project R is reflected by the variable 'Last_Activity (days)' which is a
 
 ![Elbow and Silhoutte Plot](assets/img/Elbow_Silhoutte_Plot.png)
 
-With KMeans clustering it is necessary to define the optimal number of clusters in advance. One common technique for determining the optimal number is the elbow method which provides a visual approach. By increasing the number of clusters the optimal number is identified where the curve starts to level off, indicating the model will no longer improve significantly with additional clusters.
+With KMeans clustering it is necessary to define the optimal number of clusters in advance. One common technique for determining the optimal number is the elbow method which provides a visual approach. By increasing the number of clusters the optimal number is identified where the curve starts to level off, indicating the model will no longer improve significantly with additional clusters. Looking at the above left plot this improvement is reached at cluster number 4.
+
+Another approach for determining the optimal number of clusters is the Silhoutte Score, which is a mathematical measure of the average distance from one point to all other points within the same cluster and the average distance to the points from the closest cluster. As can be seen, the Silhoutte Score shows the highest value of 0.29 at the cluster number 4 and validate the finding of the elbow method.  
 
 
 ![KMeans Distribution](/assets/img/KMeans_Distribution.png)

@@ -50,6 +50,4 @@ Another approach for determining the optimal number of clusters is the Silhoutte
 
 
 
-### 3.3 Softmax Regression
-
-# 4 Recommendation
+# 4 Conclusion

@@ -26,7 +26,13 @@ Exploring the data with regard to its distribution indicated, that no natural an
 ## 3.2 RFM Segmentation
 ### 3.1 Introduction
 
-The RFM Segmentation is a popular and widely used segmentation method in marketing that relies only on three variables: (R) Last Activity (Recency); (F) Frequency Amount (Frequency); (M) Purchase Amount (Monetary). It provides a pragmatic approach to categorizing customers based on these variables. The dataset is divided in equally sized groups. The number of groups must be select in advance.
+The RFM Segmentation is a popular and widely used segmentation method in marketing that relies only on three variables:
+
+* R (Recency): How recently a customer made a purchase.
+* F (Frequency): How often a customer makes a purchase.
+* M (Monetary): The total amount a customer has spent. 
+
+This method provides a pragmatic approach to categorizing customers based on these variables. Each of the variables will then divided in equally sized groups. The number of groups must be select in advance. Afterwards, each customer will get a rfm score, which is just a merge of the three variables. Let´s say a customer have the following values: R=3; F=4;M=1. Then the rfm score is 341. Based on this each customer falls in different segments.  
 
 ### 3.2 Segmentation with KMeans
 

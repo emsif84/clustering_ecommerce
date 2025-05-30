@@ -46,7 +46,7 @@ Another approach for determining the optimal number of clusters is the Silhoutte
 
 ![KMeans Distribution](/assets/img/KMeans_Distribution.png)
 
-![Cluster Means](assets/img/cluster_means.png)
+![Cluster Means](/assets/img/cluster_means.png)
 
 
 

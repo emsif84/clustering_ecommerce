@@ -12,7 +12,7 @@ This project is licensed under the terms of the Creative Commons Attribution 4.0
 
 The raw dataset has 1000 entries with 28 columns, which can be divided into demographic, psychological and behavioural factors:
 
-1. `demographics`: Gender, Age, Marital, Status, Occupation, Income_Level, Education_Level
+1. `demographics`: Gender, Age, Marital, Status, Occupation, Income Level, Education Level, Location, Customer ID
 
 2. `psychographics`: Brand Loyalty, Product Rating, Discount Sensitivity, Customer Satisfaction 
  

@@ -12,7 +12,7 @@ This project is licensed under the terms of the Creative Commons Attribution 4.0
 
 The raw dataset has 1000 entries with 28 columns, which can be divided into demographic, psychological and behavioural columns:
 
-* demographics: 
+1. demographics: 
 - Gender
 - Age 
 - Marital 
@@ -21,13 +21,13 @@ The raw dataset has 1000 entries with 28 columns, which can be divided into demo
 - Income_Level 
 - Education_Level 
 
-* psychographics: 
+2. psychographics: 
 - Brand_Loyalty 
 - Product Rating 
 - Discount Sensitivity 
 - Customer Satisfaction 
 
-* behavioral: 
+3. behavioral: 
 - Device Used for Shopping
 - Payment Method 
 - Discount Used 

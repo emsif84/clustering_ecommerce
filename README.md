@@ -58,6 +58,24 @@ With KMeans clustering it is necessary to define the optimal number of clusters 
 
 ![Cluster Means](/assets/img/cluster_means.png)
 
+Based on the result, the clusters are as follow:
+
+1. Cluster 0 -> Occasional Shopper: 
+    * Recent activ 
+    * low frequency of purchase 
+    * low purchase amount
+2. Cluster 1 -> Inactive Premium: 
+    * Not activ and 
+    * low frequency of purchase 
+    * high Amount of Purchase
+3. Cluster 2 -> Top Customer: 
+    * Recent activ with 
+    * high frequency of Purchase and 
+    * high Purchase Amount
+4. Cluster 3 -> Frequent Low-Spender: 
+    * Middle last activ 
+    * high frequency of purchase 
+    * lowest purchase amount
 
 
 # 4 Conclusion

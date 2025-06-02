@@ -70,7 +70,7 @@ Based on the result, the clusters are as follow:
     * high Amount of Purchase
 3. Cluster 2 -> `Top Customer`: 
     * Recent activ with 
-    * high frequency of Purchase and 
+    * high frequency of Purchase 
     * high Purchase Amount
 4. Cluster 3 -> `Frequent Low-Spender`: 
     * Middle last activ 
@@ -79,8 +79,3 @@ Based on the result, the clusters are as follow:
 
 
 # 4 Conclusion
-
-|Header|Header|Header|
-|------|------|------|
-|A     |B     |C     |
-|X     |Y     |Z     |

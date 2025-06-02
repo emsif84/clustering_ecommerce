@@ -79,3 +79,8 @@ Based on the result, the clusters are as follow:
 
 
 # 4 Conclusion
+
+|Header|Header|Header|
+|------|------|------|
+|A     |B     |C     |
+|X     |Y     |Z     |

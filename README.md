@@ -56,7 +56,11 @@ With KMeans clustering it is necessary to define the optimal number of clusters 
 
 ![KMeans Distribution](/assets/img/KMeans_Distribution.png)
 
+
+### 3.2.2 Segment Description
+
 ![Cluster Means](/assets/img/cluster_means.png)
+
 
 Based on the result, the clusters are as follow:
 

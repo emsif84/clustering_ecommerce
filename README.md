@@ -102,5 +102,12 @@ The clusters are distributed relatively evenly: 24% of customers are Occasional 
     * Comback campaigns
     * Discounts and other price reducing measures like free shippingn or coupons
     * Up Selling
+
+
+5. Conclusion
+
+The object of this project was to identify an approriate method for clustering ecommerce data. However, the underlying data made it very difficult to find features to select because no significant variation was found within the features. As a result a more pragmatic way was choosen: RFM Segmentation. The features of this method - Last Activity, Frequency of Purchase and Purchase Amount - are directly linked to the financial value of each customer. 
+
+However, this approach is not applicable to new customers, as they lack a history of frequent purchases and recent activities. Therefore, this segmentation approach is only valid for customers who have been active within a defined time period. Despite this tailored approach, the results showed that even with RFM segmentation, no highly distinct customer segments could be identified. Therefore, the segments must be regarded as overlapping groups with no clear distinction.
     
 

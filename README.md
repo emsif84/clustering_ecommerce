@@ -59,10 +59,12 @@ With KMeans clustering it is necessary to define the optimal number of clusters 
 
 ### 3.2.2 Segment Description
 
+The median value of each feature within each cluster is as follows:
+
 ![Cluster Means](/assets/img/cluster_means.png)
 
 
-Based on the result, the clusters are as follow:
+Based on these values, the following segments can be identified:
 
 1. Cluster 0 -> `Occasional Shopper`: 
     * Recent activ 
@@ -83,3 +85,4 @@ Based on the result, the clusters are as follow:
 
 
 # 4 Conclusion
+

@@ -92,8 +92,7 @@ The clusters are distributed relatively evenly: 24% of customers are Occasional 
     * Cross Selling
 
 2. Inactive Premium -> `Win-Back`:
-    * exclusive comback offers
-    * Personal 
+    * exclusive comback offers 
     
 3. Top Customers -> `Secure Commitment`: 
     * Access to Loyalty Programs and exclusive content

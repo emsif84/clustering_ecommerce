@@ -84,5 +84,5 @@ Based on these values, the following segments can be identified:
     * lowest purchase amount
 
 
-# 4 Conclusion
+There´s a homogeneous distribution of the clusters. 24% of the customers are Occasional Shoppers, whereas 23% are Inactive Premium customers. 27% are Top Customers and finally 26% are Frequent Low-Spender.
 

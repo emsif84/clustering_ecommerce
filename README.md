@@ -57,7 +57,7 @@ With KMeans clustering it is necessary to define the optimal number of clusters 
 ![KMeans Distribution](/assets/img/KMeans_Distribution.png)
 
 
-### 3.2.2 Segment Description
+### 3.2.2 Segment Description and Marketing Objectives
 
 The median value of each feature within each cluster is as follows:
 

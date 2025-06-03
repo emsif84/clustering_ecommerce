@@ -86,3 +86,22 @@ Based on these values, the following segments can be identified:
 
 The clusters are distributed relatively evenly: 24% of customers are Occasional Shoppers, 23% are Inactive Premium Customers, 27% are Top Customers, and 26% are Frequent Low-Spenders.
 
+1. Occasional Shopper -> `Reactivation and increase engagement`: 
+    * Reminder-E-Mails 
+    * Discounts and other price reducing measures like free shipping or coupons
+    * Cross Selling
+
+2. Inactive Premium -> `Win-Back`:
+    * exclusive comback offers
+    * Personal 
+    
+3. Top Customers -> `Secure Commitment`: 
+    * Access to Loyalty Programs and exclusive content
+    * Thank-you campaigns
+
+4. Frequent Low-Spender -> `Win-Back and increasing basket value`:
+    * Comback campaigns
+    * Discounts and other price reducing measures like free shippingn or coupons
+    * Up Selling
+    
+

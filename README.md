@@ -104,7 +104,7 @@ The clusters are distributed relatively evenly: 24% of customers are Occasional 
     * Up Selling
 
 
-5. Conclusion
+# 5 Conclusion
 
 The object of this project was to identify an approriate method for clustering ecommerce data. However, the underlying data made it very difficult to find features to select because no significant variation was found within the features. As a result a more pragmatic way was choosen: RFM Segmentation. The features of this method - Last Activity, Frequency of Purchase and Purchase Amount - are directly linked to the financial value of each customer. 
 

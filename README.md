@@ -84,7 +84,7 @@ Based on these values, the following segments can be identified:
     * lowest purchase amount
 
 
-The clusters are distributed relatively evenly: 24% of customers are Occasional Shoppers, 23% are Inactive Premium Customers, 27% are Top Customers, and 26% are Frequent Low-Spenders.
+The clusters are distributed relatively evenly: 24% of customers are Occasional Shoppers, 23% are Inactive Premium Customers, 27% are Top Customers, and 26% are Frequent Low-Spenders. Based on the segment description, the following marketing objectives and activities can be derived:
 
 1. Occasional Shopper -> `Reactivation and increase engagement`: 
     * Reminder-E-Mails 

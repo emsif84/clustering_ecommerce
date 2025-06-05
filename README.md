@@ -71,11 +71,11 @@ Based on this distribution, the following segments can be identified:
     * low frequency of purchase 
     * low purchase amount
 2. Cluster 1 -> `Inactive Premium`: 
-    * Not activ and 
+    * Not activ 
     * low frequency of purchase 
     * high Amount of Purchase
 3. Cluster 2 -> `Top Customer`: 
-    * Recent activ with 
+    * Recent activ 
     * high frequency of Purchase 
     * high Purchase Amount
 4. Cluster 3 -> `Frequent Low-Spender`: 

@@ -64,7 +64,7 @@ The distribution of the RFM features in each cluster is as follows:
 ![Cluster Distribution](assets/img/Cluster_Boxplot.png)
 
 
-Based on these distribution, the following segments can be identified:
+Based on this distribution, the following segments can be identified:
 
 1. Cluster 0 -> `Occasional Shopper`: 
     * Recent activ 

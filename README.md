@@ -59,12 +59,12 @@ With KMeans clustering it is necessary to define the optimal number of clusters 
 
 # 4 Segment Description and Marketing Objectives
 
-The median value of each feature within each cluster is as follows:
+The distribution of the RFM features in each cluster is as follows:
 
-![Cluster Means](/assets/img/cluster_means.png)
+![Cluster Distribution](assets/img/Cluster_Boxplot.png)
 
 
-Based on these values, the following segments can be identified:
+Based on these distribution, the following segments can be identified:
 
 1. Cluster 0 -> `Occasional Shopper`: 
     * Recent activ 
